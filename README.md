@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Erhan Baştürk</h1>
 <h3 align="center">I am a Computer Science student at Bursa Technical University</h3>
 
-- 🌱 I’m currently learning **Web Development and Data Science with Python**
+- 🌱 I’m currently learning **Web Development**
 
 - 📝 I regularly write articles on [https://basturkerhan16.medium.com](https://basturkerhan16.medium.com)
 
