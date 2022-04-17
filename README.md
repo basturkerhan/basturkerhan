@@ -9,6 +9,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Web Scraping Nedir? Selenium Kütüphanesi İle Nasıl Gerçekleştireceğimizi Bir Örnekle İnceleyelim!](https://basturkerhan16.medium.com/web-scraping-nedir-selenium-k%C3%BCt%C3%BCphanesi-i%CC%87le-nas%C4%B1l-ger%C3%A7ekle%C5%9Ftirece%C4%9Fimizi-bir-%C3%B6rnekle-i%CC%87nceleyelim-9a2287f01f85?source=rss-c7b20f53c001------2)
+- [JavaScript ES2020 İle Gelen Özellikler ve React İle Çalışırken Kullanım Örnekleri](https://basturkerhan16.medium.com/javascript-es2020-i%CC%87le-gelen-%C3%B6zellikler-ve-react-i%CC%87le-%C3%A7al%C4%B1%C5%9F%C4%B1rken-kullan%C4%B1m-%C3%B6rnekleri-efe63b66103d?source=rss-c7b20f53c001------2)
+- [Haber Metinlerinin Başlıklarında Neden Soru Cümlesi Kullanılır?](https://basturkerhan16.medium.com/haber-metinlerinin-basliklarinda-neden-soru-cumlesi-kullanilir-cc93121a0f51?source=rss-c7b20f53c001------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
